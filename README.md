@@ -1,30 +1,24 @@
-## Hi there 👋
-I'm Alex
-
-<!--
-**alexnec29/alexnec29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi there 👋, I'm Alex!</h1>
 
 ## 🚀 About Me
 
-- 🎓 I’m currently studying Computer Science
-- 🌱 Currently learning: full-stack web
-- 👨‍💻 Passionate about building real-world tools
+- 🎓 I’m currently studying **Computer Science**
+- 🌱 Currently learning: **Full-Stack Web Development**
+- 👨‍💻 Passionate about building real-world tools and solving practical problems
 
 ## 📂 My Projects
 
-- 🔧 **Redditor CLI (Rust)** – Reddit post fetcher with real-time updates  
-- 🏢 **Nuilding (C)** – Client-server app managing university building data  
-- 🔄 **Electron (C++)** – Interactive circuit editor with PostScript integration  
-- 📊 **Insurance DB (C#)** – Windows app managing home and vehicle records  
+🔧 **[Redditor CLI (Rust)](https://github.com/alexnec29/redditor)**  
+*Reddit post fetcher with real-time updates and CLI customization*
+
+🏢 **[Nuilding (C)](https://github.com/alexnec29/nuilding)**  
+*Client-server app for managing university building data*
+
+🔄 **[Electron (C++)](https://github.com/alexnec29/electron)**  
+*Interactive circuit editor using PostScript-like component files*
+
+📊 **[Insurance DB (C#)](https://github.com/alexnec29/insurance-db)**  
+*Windows app managing house & vehicle insurance records*
+
+> 🛡️ These repositories are currently private due to academic and safety considerations.  
+> 🔓 I’m happy to share them privately upon request.
