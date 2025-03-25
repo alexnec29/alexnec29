@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Alex
 
 <!--
 **alexnec29/alexnec29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀 About Me
+
+- 🎓 I’m currently studying Computer Science
+- 🌱 Currently learning: full-stack web
+- 👨‍💻 Passionate about building real-world tools
+
+## 📂 My Projects
+
+- 🔧 **Redditor CLI (Rust)** – Reddit post fetcher with real-time updates  
+- 🏢 **Nuilding (C)** – Client-server app managing university building data  
+- 🔄 **Electron (C++)** – Interactive circuit editor with PostScript integration  
+- 📊 **Insurance DB (C#)** – Windows app managing home and vehicle records  
