@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Alex!</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=alexnec29&show_icons=true&theme=tokyonight" />
+
 ## 🚀 About Me
 
 - 🎓 I’m currently studying **Computer Science**
