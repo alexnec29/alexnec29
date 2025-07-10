@@ -23,3 +23,6 @@
 
 🧠 **[Original Programming Language (YACC/Bison)](https://github.com/alexnec29/Original-Programming-Language)**  
 *Custom statically-typed language with semantic checks and AST generation via Flex/Bison*
+
+☕ **[Scholarship Manager (JAVA)](https://github.com/alexnec29/ScholarshipManager)**  
+*Client-server app for managing scholarships as admin or seeing his scholarships as a student*
