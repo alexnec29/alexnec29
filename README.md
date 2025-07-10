@@ -23,6 +23,3 @@
 
 🧠 **[Original Programming Language (YACC/Bison)](https://github.com/alexnec29/Original-Programming-Language)**  
 *Custom statically-typed language with semantic checks and AST generation via Flex/Bison*
-
-> 🛡️ These repositories are currently private due to academic and safety considerations.  
-> 🔓 I’m happy to share them privately upon request.
