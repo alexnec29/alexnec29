@@ -18,7 +18,7 @@
 🔄 **[Electron (C++)](https://github.com/alexnec29/electron)**  
 *Interactive circuit editor using PostScript-like component files*
 
-📊 **[Insurance DB (C#)](https://github.com/alexnec29/insurance-db)**  
+📊 **[Insurance DB (C#)](https://github.com/alexnec29/Insurance-Database-Management-Application)**  
 *Windows app managing house & vehicle insurance records*
 
 🧠 **[Original Programming Language (YACC/Bison)](https://github.com/alexnec29/Original-Programming-Language)**  
